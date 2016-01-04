@@ -1,0 +1,18 @@
+- [ ] Creating repos 
+- [ ] Creating branches 
+- [ ] Opened Pull Requests 
+- [ ] Workflows
+  - Mapping this to real world process
+  - GitHub Flow
+  - Git Flow
+- [ ] Permissions
+  - Teams, Orgs, access control
+- [ ] Merge
+  - `fast-forward`, `recursive` 
+  - `reset`, `reflog`
+- GitHub strategies
+  - Larger scale?
+  - How to prevent conflicts?
+  - Conventions?
+- Recovery from anything
+  - `reflog`, `reset --hard`
